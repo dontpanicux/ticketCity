@@ -342,7 +342,7 @@ small {
 }
 
 .alert-general {
-  background-color: #CCCCCC;
+  background-color: #FFAA00;
 }
 
 .alert img {
@@ -355,6 +355,7 @@ small {
 .alert p {
   display: inline-block;
   margin-bottom: 0;
+  color: #FFF;
 }
 
 .button {
