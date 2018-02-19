@@ -11,7 +11,8 @@
 Primary Purple - #290424
 Primary Pink - #ED2590
 Primary Orange - #FFAA00
-White - #FFFFFF Grey - #F2F3F5
+White - #FFFFFF
+Grey - #F2F3F5
 ======================================== */
 
 /* 1. Global Styles
@@ -393,7 +394,7 @@ small {
 
 .card {
   background-color: #FFFFFF;
-  box-shadow: 0 0 40px 2px rgba(0, 0, 0, 0);
+  box-shadow: 0 0 40px 2px rgba(0, 0, 0, .6); /* a is Alpha value which changes opacity*/
   border-radius: 10px;
   padding: 30px 30px 15px;
 }
