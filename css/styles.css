@@ -431,6 +431,7 @@ small {
 
 .form {
   display: block;
+  margin-bottom: 60px;
 }
 
 input,
