@@ -437,7 +437,7 @@ small {
 input,
 select,
 textarea {
-  background-color: #FFFFFF;
+  background-color: #F2F3F5;
   border-radius: 3px;
   box-shadow: inset 1px 1px 3px 0 rgba(189,191,192,0.10);
   border: 1px solid #ffffff;
@@ -458,7 +458,7 @@ input:active,
 input:focus,
 textarea:active,
 textarea:focus {
-  border: 1px solid #ffffff;
+  border: 1px solid #290424;
   outline: none;
 }
 
