@@ -358,7 +358,7 @@ small {
 
 .button {
   border-radius: 3px;
-  color: #2a2a2a;
+  color: #FFF;
   display: inline-block;
   font-family: 'Roboto', Helvetica, sans-serif;
   font-size: 16px;
@@ -375,11 +375,11 @@ small {
 }
 
 .button-primary {
-  background-color: #FFFFFF;
+  background-color: #ED2590;
 }
 
 .button-secondary {
-  background-color: #999999;
+  background-color: #FFAA00;
 }
 
 .button-full {
